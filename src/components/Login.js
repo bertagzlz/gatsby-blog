@@ -3,13 +3,13 @@ import '@okta/okta-signin-widget/dist/css/okta-sign-in.min.css'
 import React from 'react'
 
 const config = {
-  baseUrl: 'https://dev-9323263.okta.com',
-  clientId: '0oal2yai5X1kuytyO5d6',
+  baseUrl: 'https://dev-1873502.okta.com',
+  clientId: '0oa13lbili2mjofbY5d7',
   logo: '//logo.clearbit.com/gatsbyjs.org',
   redirectUri: typeof window !== 'undefined' && window.location.origin + '/account',
   el: '#signIn',
   authParams: {
-    issuer: 'https://dev-9323263.okta.com/oauth2/default',
+    issuer: 'https://dev-1873502.okta.com/oauth2/default',
     scopes: ['openid', 'email', 'profile']
   },
   features: {
