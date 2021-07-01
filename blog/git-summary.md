@@ -38,6 +38,10 @@ git push origin <branch>
 git pull to update your local rep from the most recent commit
 git merge <branch> to download and merge the remote changes
 ![Merge branches](assets/branches.png)
+
+![](assets/branches.png)
+
+
 It may produce conflicts, but they depends on you.
 Git diff <source branch> <target_branch> to review
 
