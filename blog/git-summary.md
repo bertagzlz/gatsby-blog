@@ -47,3 +47,5 @@ Git diff <source branch> <target_branch> to review
 Replace local changes
 git checkout – <filename>
 This replaces tha changes in your working directory with the latest HEAD content. New files won’t be changed.
+
+![](assets/deployment-workflow.png)
