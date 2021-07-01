@@ -5,7 +5,7 @@ title: git summary
 ---
 ### Local rep is composed by three trees:
 
-![Merge branches](public/index-head.png)
+![Merge branches](assets/index-head.png)
 
 `git add .` Para meter todos al index
 git add <filename>
@@ -40,7 +40,6 @@ git merge <branch> to download and merge the remote changes
 ![Merge branches](assets/branches.png)
 
 ![](assets/branches.png)
-
 
 It may produce conflicts, but they depends on you.
 Git diff <source branch> <target_branch> to review
