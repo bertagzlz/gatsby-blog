@@ -5,7 +5,7 @@ title: git summary
 ---
 ### Local rep is composed by three trees:
 
-![Merge branches](assets/index-head.png)
+![Merge branches](public/index-head.png)
 
 `git add .` Para meter todos al index
 git add <filename>
