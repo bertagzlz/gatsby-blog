@@ -5,7 +5,6 @@ author: Yo
 title: cómo son los markdown!
 image: ''
 tags: ['markdown', 'md', 'files']
-
 ---
 
 As seen in the frontmatter (the block surrounded in dashes), we specified the post's title and date. You can inject any piece of data here. Like the tags, categories, featured image URL, posts description etc.
