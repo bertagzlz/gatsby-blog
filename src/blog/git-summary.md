@@ -6,10 +6,11 @@ author: Yo
 ---
 ### Local rep is composed by three trees:
 
+![jjj](assets/img-20200507-wa0006.jpg "jjjjj")
+
 ![Merge branches](../assets/index-head.png)
 
 ![jjjj](assets/index-head.png "jjjjj")
-
 
 ![Merge branches](./images/index-head.png)
 
