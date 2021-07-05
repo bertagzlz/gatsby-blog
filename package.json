@@ -14,12 +14,18 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@okta/okta-signin-widget": "^5.5.2",
-    "gatsby": "^3.2.1",
+    "@okta/okta-signin-widget": "^5.8.1",
+    "gatsby": "^3.8.1",
+    "gatsby-plugin-image": "^1.8.0",
     "gatsby-plugin-netlify-cms": "^5.3.0",
-    "gatsby-source-filesystem": "^3.3.0",
-    "gatsby-transformer-remark": "^4.0.0",
+    "gatsby-plugin-offline": "^4.8.0",
+    "gatsby-plugin-sass": "^4.8.0",
+    "gatsby-plugin-sharp": "^3.8.0",
+    "gatsby-source-filesystem": "^3.8.0",
+    "gatsby-transformer-remark": "^4.5.0",
+    "gatsby-transformer-sharp": "^3.8.0",
     "netlify-cms-app": "^2.14.45",
+    "node-sass": "^6.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

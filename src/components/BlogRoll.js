@@ -69,7 +69,9 @@ const query = () => (
               frontmatter {
                 path
                 title
+                author
                 date(formatString: "MMMM DD, YYYY")
+                
               }
             }
           }

@@ -1,7 +1,8 @@
 ---
-path: /blog/como-funciona-gatsby
-date: 2020-02-18T15:44:02.080Z
-title: como-funciona-gatsby!
+   path: /blog/como-funciona-gatsby
+   date: 2020-02-18T15:44:02.080Z
+   title: como-funciona-gatsby!
+   author: Yo
 ---
 😃 ¿Cuándo se genera el contenido estático?
 Se genera cuando haces el despliegue de la aplicación, es decir, cuando ejecutas el comando `build`. Luego veremos cómo podemos automatizar este proceso desplegándolo en Netlify.
@@ -19,3 +20,5 @@ Desplegamos entorno de pruebas con `gatsby develop`, podemos acceder a:
 Primero e github, luego a netlify. comando ´npm run build´ y seleccionamos carpt public como contenedora.
 ## ¿cómo puedo hacer para que cada vez que actualizo el contenido, se reconstruya la aplicación web?
 Con los hooks. Los creo en netlify. No es más que una url, a la que cada vez que accedemos mediante POST se vuelve a compliar el proyecto.
+## Working with pages 
+https://dev.to/ibaslogic/gatsby-tutorial-a-step-by-step-guide-to-building-a-gatsby-site-from-scratch-2neh
